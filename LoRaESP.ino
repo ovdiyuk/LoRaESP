@@ -12,7 +12,7 @@ int indexFreq = 0;
 
 // WiFi network name and password:
 const char * networkName = "XATA";
-const char * networkPswd = "0975805656";
+const char * networkPswd = "password";
 
 //IP address to send UDP data to:
 // either use the ip address of the server or 
